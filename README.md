@@ -11,7 +11,7 @@
 
 ### 💻 Tech Stack
 
-💡 Languages: PHP, JavaScript, HTML, CSS, SQL, Python, React, 
+💡 Languages: PHP, JavaScript, HTML, CSS, SQL, Python, React 
 ⚙️ CMS: WordPress, WooCommerce  
 🔧 Tools: Git, VS Code, Chrome DevTools, Postman  
 🎨 Design: Elementor, Divi, Wp Bakery, Oxygen, Figma, Adobe XD  
