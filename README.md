@@ -1,18 +1,17 @@
-# Hi there, I'm Muhammad Zeeshan Sardar 👋
+Hi there, I'm Muhammad Zeeshan Sardar 👋  
+🚀 Full Stack Web Developer | Founder of Zignites  
+🎯 8+ years of experience building scalable web apps, custom WordPress plugins/themes, and full-stack solutions  
+🌍 Currently working at Provelopers | Building innovative tools at Zignites  
+🧠 Tech expertise: WordPress, Laravel, React.js, Node.js, REST APIs  
+🔧 Specialized in plugin development, WooCommerce customization, headless CMS, and performance optimization  
+💬 Ask me about WordPress, Laravel, React, API integrations, or custom dashboards  
+📫 Contact: mshani337@gmail.com | Portfolio: [https://zignites.com](https://zignites.com)  
+🛠️ Currently exploring: AI tools, GitHub Actions, and scalable SaaS architecture  
 
-🎯 Passionate Full Stack WordPress Developer  
-🚀 8+ years of experience in building custom WordPress plugins, themes, and complex integrations  
-🌍 Currently working at Provelopers  
-🔧 Skilled in PHP, JS, HTML/CSS, MySQL, REST APIs, and WordPress Custom Development  
-💬 Ask me about plugin development and customization, theme developement and customization, WooCommerce, REST API, and WP performance  
-📫 How to reach me: mshani337@gmail.com  
-🛠️ Currently learning: Machine Learning and GitHub Actions
-
-
-### 💻 Tech Stack
-
-💡 Languages: PHP, JavaScript, HTML, CSS, SQL, Python, React 
-⚙️ CMS: WordPress, WooCommerce  
-🔧 Tools: Git, VS Code, Chrome DevTools, Postman  
-🎨 Design: Elementor, Divi, Wp Bakery, Oxygen, Figma, Adobe XD  
-🛠️ Dev Tools: LocalWP, XAMPP, Ubuntu, Docker 
+💻 Tech Stack  
+💡 **Languages:** PHP, JavaScript (ES6+), HTML5, CSS3, SQL, Python  
+⚙️ **Frameworks & Libraries:** Laravel, React.js, Node.js, Express  
+🧩 **CMS & eCommerce:** WordPress, WooCommerce, Elementor, Divi, WPBakery, Oxygen  
+🔌 **Tools & Platforms:** Git, GitHub, VS Code, Postman, Chrome DevTools  
+🐳 **Dev Environment:** LocalWP, XAMPP, Docker, Ubuntu  
+🎨 **Design & Prototyping:** Figma, Adobe XD  
